@@ -39,4 +39,11 @@
 
 [dog](https://sib.fm/storage/article/July2021/Of0MKoZWTPQ8SyNDVoQk.jpg)
 
+Изображение похожим образом: \![название изображения]\(ссылка)
+
+![dog](https://sib.fm/storage/article/July2021/Of0MKoZWTPQ8SyNDVoQk.jpg)
+
+Зачёркнутый текст пишется через две тильды
+
+~~Лишний текст~~
 
