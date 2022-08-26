@@ -43,7 +43,7 @@
 
 ![dog](https://sib.fm/storage/article/July2021/Of0MKoZWTPQ8SyNDVoQk.jpg)
 
-Зачёркнутый текст пишется через две тильды. here change to conflict
+Зачёркнутый текст пишется через две тильды. here change to conflict branch_2!
 
 ~~Лишний текст~~
 
