@@ -47,3 +47,18 @@
 
 ~~Лишний текст~~
 
+* git checkout -b task3
+* git commit -a -m task3
+* git checkout master
+* git commit -a -m master
+* git commit -a -m merge
+* git checkout task3
+* git commit -a -m task3
+* git checkout master
+* git commit -a -m master
+* git merge task3
+* ctrl+p там >merge
+* git revert 9656bab
+* git cherry-pick c23
+* git commit --amend -m 'add some'
+
